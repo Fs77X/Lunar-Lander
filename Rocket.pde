@@ -5,7 +5,7 @@
  */
 
 /* 
- The rocket class was further edited by Mark Medved and Farhan Saeed to add further features such as a fuel gauge
+ The rocket class was further edited by *Lab Partner* and Farhan Saeed to add further features such as a fuel gauge
  oxygen supply among other things.
  */
 class Rocket {
